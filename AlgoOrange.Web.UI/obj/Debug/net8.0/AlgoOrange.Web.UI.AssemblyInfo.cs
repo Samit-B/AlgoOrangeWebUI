@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgoOrange.Web.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e121fbfc676f4751a73314ae5852ff9f2c55ee3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgoOrange.Web.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgoOrange.Web.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
